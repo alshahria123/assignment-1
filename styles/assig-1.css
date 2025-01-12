@@ -20,15 +20,85 @@ h1{
 
 .fira{
     color: rgba(0, 0, 0, 0.459);
-    font-size: 24px;
-    font-weight: medium;
+    font-size: 20px;
+    font-weight: 400;
 }
-button{
+.btn{         
     background-color: #006A50;
     padding: 17px 34px;
     border-radius: 8px;
     color: #FFFFFF;
     border: none;
     font-size: 18px;
-    font-weight: semibold;    
+    font-weight: semibold;
+
+}
+.card-icon{
+    display: flex;
+}
+.icon{
+    margin: 80px 160px 32px 160px;
+}
+.icon-1{
+    background-color: #548ff55d;
+    padding: 25px;
+    margin: 32px 24px 32px 160px;
+    border-radius: 16px;
+}
+.icon-2{
+    background-color: #C6E4D6;
+    padding: 25px;
+    margin: 32px 24px;
+    border-radius: 16px;
+}
+.icon-3{
+    background-color: #F7EBCF;
+    padding: 25px;
+    margin: 32px 160px 32px 24px;
+    border-radius: 16px;
+}
+.btn-1{
+    background-color: blue;
+    padding: 17px 34px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    border: none;
+    font-size: 18px;
+    font-weight: semibold;
+}
+.btn-2{
+    background-color: green;
+    padding: 17px 34px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    border: none;
+    font-size: 18px;
+    font-weight: semibold;
+}
+.btn-3{
+    background-color: orange;
+    padding: 17px 34px;
+    border-radius: 8px;
+    color: #FFFFFF;
+    border: none;
+    font-size: 18px;
+    font-weight: semibold;
+}
+.display{
+    display: flex;
+    margin: 32px 160px 24px 160px;
+    background-color: paleturquoise;
+    border-radius: 24px;
+}
+.class-1{
+    margin: 80px 160px 32px 160px;
+}
+.bangla{
+    padding: 0px 32px 13px 20px;
+}
+.satelite{
+    border-radius: 24px;
+}
+.datetime{
+    color: rgba(0, 0, 0, 0.459);
 }
