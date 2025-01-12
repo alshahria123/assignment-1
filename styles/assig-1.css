@@ -102,3 +102,40 @@ h1{
 .datetime{
     color: rgba(0, 0, 0, 0.459);
 }
+.nav{
+    background-color: ghostwhite;
+}
+.head-5{
+    margin: 80PX 160PX;
+}
+.title{
+    text-align: center;
+}
+.btn-5{
+    justify-content: space-around;
+    text-align: center;
+}
+.btn-6{
+    margin: 32px 24px 32px 100px;
+    padding: 40px;
+    border-radius: 24px;
+    border: none;
+}
+.btn-7{
+    margin: 32px 24px 32px 100px;
+    padding: 40px;
+    border-radius: 24px;
+    background-color:  #C6E4D6;
+    border: none;
+}
+.btn-8{
+    margin: 32px 151px;
+    padding: 20px 422px;
+
+}
+.btn-9{
+    text-align: center;
+}
+.btn-10{
+    text-align: center;
+}
